@@ -1,5 +1,5 @@
 <?php
-$pdo = "";
+
 function getDB(){
         $host = 'localhost';
         $username = 'root';
@@ -8,8 +8,4 @@ function getDB(){
 
         $dsn = "mysql:host={$host};dbname={$dbname};charset=utf8";
         return new \PDO($dsn, $username,$password);
-}
-
-function sql(){
-    global $db;
 }

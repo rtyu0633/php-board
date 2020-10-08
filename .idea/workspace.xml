@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f970dcf5-1c81-4140-998a-064f4a38ffdd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hwBVaVg3d3eHhkFEFk7t5Edm5Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/view" />
+      <recent name="$PROJECT_DIR$/database" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f970dcf5-1c81-4140-998a-064f4a38ffdd" name="Default Changelist" comment="" />
+      <created>1600912298422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600912298422</updated>
+      <workItem from="1600912299750" duration="1553000" />
+      <workItem from="1600914498213" duration="6048000" />
+      <workItem from="1600995649350" duration="1062000" />
+      <workItem from="1601001457691" duration="1956000" />
+      <workItem from="1601341480196" duration="4868000" />
+      <workItem from="1601356584977" duration="522000" />
+      <workItem from="1601358036694" duration="42000" />
+      <workItem from="1602037289986" duration="9675000" />
+      <workItem from="1602120337059" duration="5192000" />
+    </task>
+    <task id="LOCAL-00001" summary="10/7">
+      <created>1602053926404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602053926404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10/7" />
+    <option name="LAST_COMMIT_MESSAGE" value="10/7" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="212" key="#SQL_Dialects" timestamp="1602125166180">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="0" y="212" key="#SQL_Dialects/0.23.1280.726@0.23.1280.726" timestamp="1602125166180" />
+    <state x="375" y="208" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1602051217932">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="375" y="208" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.23.1280.726@0.23.1280.726" timestamp="1602051217932" />
+    <state x="201" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602125183376">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="201" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1602125183376" />
+    <state x="123" y="23" key="CommitChangelistDialog2" timestamp="1602053925870">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="123" y="23" key="CommitChangelistDialog2/0.23.1280.726@0.23.1280.726" timestamp="1602053925870" />
+    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1602051841743">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="462" y="321" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1601347262626" />
+    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1602051841743" />
+    <state x="140" y="23" key="SettingsEditor" timestamp="1602052828193">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="140" y="23" key="SettingsEditor/0.23.1280.726@0.23.1280.726" timestamp="1602051221894" />
+    <state x="140" y="23" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1602052828193" />
+    <state x="245" y="132" key="Vcs.Push.Dialog.v2" timestamp="1602053931246">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="245" y="132" key="Vcs.Push.Dialog.v2/0.23.1280.726@0.23.1280.726" timestamp="1602053931246" />
+    <state x="245" y="132" key="Vcs.Push.Dialog.v2/0.23.1280.728@0.23.1280.728" timestamp="1602053649736" />
+    <state x="250" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602049310962">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="250" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.726@0.23.1280.726" timestamp="1602049310962" />
+    <state x="341" y="155" width="598" height="490" key="find.popup" timestamp="1601342028250">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1601342028250" />
+    <state x="370" y="303" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600913658502">
+      <screen x="0" y="23" width="1280" height="725" />
+    </state>
+    <state x="370" y="303" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1280.725@0.23.1280.725" timestamp="1600913658502" />
+  </component>
+</project>
