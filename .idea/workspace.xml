@@ -49,6 +49,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/function" />
       <recent name="$PROJECT_DIR$/view" />
       <recent name="$PROJECT_DIR$/database" />
       <recent name="$PROJECT_DIR$" />
@@ -74,6 +75,9 @@
       <workItem from="1601358036694" duration="42000" />
       <workItem from="1602037289986" duration="9675000" />
       <workItem from="1602120337059" duration="5192000" />
+      <workItem from="1602568913663" duration="2609000" />
+      <workItem from="1602640472209" duration="3998000" />
+      <workItem from="1602725296137" duration="12584000" />
     </task>
     <task id="LOCAL-00001" summary="10/7">
       <created>1602053926404</created>
@@ -121,15 +125,15 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="123" y="23" key="CommitChangelistDialog2/0.23.1280.726@0.23.1280.726" timestamp="1602053925870" />
-    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1602051841743">
+    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1602726362364">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="462" y="321" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1601347262626" />
-    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1602051841743" />
-    <state x="140" y="23" key="SettingsEditor" timestamp="1602052828193">
-      <screen x="0" y="23" width="1280" height="728" />
+    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1602726362364" />
+    <state x="140" y="23" key="SettingsEditor" timestamp="1602727751164">
+      <screen x="0" y="23" width="1280" height="726" />
     </state>
-    <state x="140" y="23" key="SettingsEditor/0.23.1280.726@0.23.1280.726" timestamp="1602051221894" />
+    <state x="140" y="23" key="SettingsEditor/0.23.1280.726@0.23.1280.726" timestamp="1602727751164" />
     <state x="140" y="23" key="SettingsEditor/0.23.1280.728@0.23.1280.728" timestamp="1602052828193" />
     <state x="245" y="132" key="Vcs.Push.Dialog.v2" timestamp="1602053931246">
       <screen x="0" y="23" width="1280" height="726" />
