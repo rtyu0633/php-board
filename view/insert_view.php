@@ -23,7 +23,6 @@
 
 <script>
     function overlap(){
-        let ck = document.querySelector("#ck");
         let a = document.frm.id.value;
         if(a){
             let url = "../function/idCheck.php?userid="+a;
@@ -45,6 +44,7 @@
 
         if(document.frm.id.value.trim() == ""){
             alert("아이디를 입력해주세요");
+            document.frm.ck.value = "1";
             document.frm.id.focus();
             return false;
         }

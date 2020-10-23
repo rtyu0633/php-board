@@ -1,0 +1,108 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    list-style: none;
+
+    /*border: 1px solid black;*/
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header{
+    width: 100%;
+    height: 50px;
+
+    background-color: #808080;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    width: 100%;
+    height: 100px;
+
+    position: relative;
+    bottom: 0;
+
+    background-color: #808080;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.menu-info{
+    width: 25%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.menu-info a{
+    color: black;
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-info{
+    width: 80%;
+    height: 80%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.user-info a{
+    width: 40%;
+}
+
+.wrapper{
+    width: 100%;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.board-info{
+    width: 100%;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

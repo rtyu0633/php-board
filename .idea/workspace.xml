@@ -42,13 +42,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/library" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/library" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/library" />
       <recent name="$PROJECT_DIR$/function" />
       <recent name="$PROJECT_DIR$/view" />
       <recent name="$PROJECT_DIR$/database" />
@@ -77,7 +87,12 @@
       <workItem from="1602120337059" duration="5192000" />
       <workItem from="1602568913663" duration="2609000" />
       <workItem from="1602640472209" duration="3998000" />
-      <workItem from="1602725296137" duration="12584000" />
+      <workItem from="1602725296137" duration="12700000" />
+      <workItem from="1602814356808" duration="2066000" />
+      <workItem from="1603070883638" duration="2412000" />
+      <workItem from="1603242047154" duration="1891000" />
+      <workItem from="1603343663198" duration="1930000" />
+      <workItem from="1603418353875" duration="4870000" />
     </task>
     <task id="LOCAL-00001" summary="10/7">
       <created>1602053926404</created>
@@ -121,15 +136,23 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="201" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.726@0.23.1280.726" timestamp="1602125183376" />
+    <state x="354" y="277" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603426784497">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="354" y="277" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.726@0.23.1280.726" timestamp="1603426784497" />
+    <state x="358" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603427579837">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="358" y="193" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.726@0.23.1280.726" timestamp="1603427579837" />
     <state x="123" y="23" key="CommitChangelistDialog2" timestamp="1602053925870">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="123" y="23" key="CommitChangelistDialog2/0.23.1280.726@0.23.1280.726" timestamp="1602053925870" />
-    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1602726362364">
+    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1603344535891">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="462" y="321" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1601347262626" />
-    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1602726362364" />
+    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1603344535891" />
     <state x="140" y="23" key="SettingsEditor" timestamp="1602727751164">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
