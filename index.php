@@ -18,7 +18,8 @@
         <input class="input-cus" type="password" name="password" id="password" placeholder="password"> <br>
 
         <input class="input-btn" type="submit" value="로그인">
-        <a class="register" href="view/insert_view.php">회원가입</a>
+        <a class="register" href="view/insertView.php">회원가입</a>
+        <a href="view/main.php">메인</a>
     </form>
 </div>
 

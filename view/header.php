@@ -21,7 +21,7 @@
                 <?php
                 session_start();
                 if (!isset($_SESSION["id"])) {
-                    echo "<a href='../index.php'>로그인</a>";
+                    echo "<a class='btn btn-danger' href='../index.php'>로그인</a>";
                 } else {
                     echo "닉네임 : ";
                     echo $_SESSION["id"];

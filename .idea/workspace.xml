@@ -23,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -94,6 +95,8 @@
       <workItem from="1603343663198" duration="1930000" />
       <workItem from="1603418353875" duration="5144000" />
       <workItem from="1603933983773" duration="4412000" />
+      <workItem from="1604036605902" duration="3463000" />
+      <workItem from="1604282008403" duration="5442000" />
     </task>
     <task id="LOCAL-00001" summary="10/7">
       <created>1602053926404</created>
@@ -149,11 +152,11 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="123" y="23" key="CommitChangelistDialog2/0.23.1280.726@0.23.1280.726" timestamp="1602053925870" />
-    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1603344535891">
+    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1604290863933">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="462" y="321" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1601347262626" />
-    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1603344535891" />
+    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1604290863933" />
     <state x="140" y="23" key="SettingsEditor" timestamp="1602727751164">
       <screen x="0" y="23" width="1280" height="726" />
     </state>

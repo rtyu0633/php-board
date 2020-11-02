@@ -30,6 +30,7 @@ try {
         echo "<script> history.back(); </script>";
         exit;
     }
+    //로그인에 성공하면 session으로 로그인된 id를 저장해서 로그인 체크
     echo "<script>alert('로그인 되었습니다!');</script>";
     session_start();
     $_SESSION["id"] = $id;
