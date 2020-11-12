@@ -9,12 +9,12 @@
 
         } else {
             ?>
-            <a class="writeBtn btn btn-default" href="boardInfo.php">글쓰기</a>
+            <a class="writeBtn btn" href="boardInfo.php">글쓰기</a>
             <?php
         }
         ?>
     </div>
-    <table class="table-striped table-info text-center">
+    <table class="table-striped main-table text-center">
         <tr>
             <td>번호</td>
             <td>닉네임</td>

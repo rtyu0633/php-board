@@ -1,14 +1,15 @@
 
-
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
     outline: none;
+    text-decoration: none;
+    font-size: 15px;
+
+
     list-style: none;
 
-    /*border: 1px solid black;*/
 }
 
 a{
@@ -111,11 +112,11 @@ footer{
     flex-direction: column;
 }
 
-.table-info{
+.main-table{
     width: 80%;
 }
 
-.table-info td{
+.main-table td{
     padding: 10px 0 10px 0;
 }
 
@@ -123,4 +124,12 @@ footer{
     width: 80%;
     float: left;
     margin-bottom: 30px;
+}
+
+.writeBtn{
+    border: 1px solid #e2e2e2;
+}
+
+.ck-editor__editable_inline {
+    min-height: 300px;
 }

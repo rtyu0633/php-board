@@ -55,15 +55,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/library" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/library" />
       <recent name="$PROJECT_DIR$/function" />
       <recent name="$PROJECT_DIR$/view" />
       <recent name="$PROJECT_DIR$/database" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/library" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -97,6 +97,9 @@
       <workItem from="1603933983773" duration="4412000" />
       <workItem from="1604036605902" duration="3463000" />
       <workItem from="1604282008403" duration="5442000" />
+      <workItem from="1604555234981" duration="957000" />
+      <workItem from="1604556404121" duration="2667000" />
+      <workItem from="1605144702792" duration="5439000" />
     </task>
     <task id="LOCAL-00001" summary="10/7">
       <created>1602053926404</created>
@@ -152,11 +155,11 @@
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="123" y="23" key="CommitChangelistDialog2/0.23.1280.726@0.23.1280.726" timestamp="1602053925870" />
-    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1604290863933">
+    <state x="462" y="314" key="NewPhpFileDialog" timestamp="1605145023664">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
     <state x="462" y="321" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1601347262626" />
-    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1604290863933" />
+    <state x="462" y="314" key="NewPhpFileDialog/0.23.1280.726@0.23.1280.726" timestamp="1605145023664" />
     <state x="140" y="23" key="SettingsEditor" timestamp="1602727751164">
       <screen x="0" y="23" width="1280" height="726" />
     </state>
@@ -175,6 +178,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="341" y="155" width="598" height="490" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1601342028250" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1605161653935">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.23.1280.726@0.23.1280.726" timestamp="1605161653935" />
     <state x="370" y="303" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1600913658502">
       <screen x="0" y="23" width="1280" height="725" />
     </state>
